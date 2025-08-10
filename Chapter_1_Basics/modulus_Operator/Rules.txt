@@ -1,0 +1,9 @@
+a%b = a    if [a<b]
+a%a = 0
+a%(-b) = a%b  
+(-a)%b = -[a%b]
+
+
+
+
+IMPORTANCE IS DIVISIBILTY QUESTIONS

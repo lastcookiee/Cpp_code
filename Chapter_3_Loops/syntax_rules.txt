@@ -1,0 +1,7 @@
+Rules for the FOR LOOP;-
+
+main(){
+    for(int i=1;i<=10;i++){                //int i=1;i<=10;i++    THIS IS MY FOR LOOP CONDITION
+        cout<<"hello world";
+    }
+}
