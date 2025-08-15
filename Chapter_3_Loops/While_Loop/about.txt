@@ -1,0 +1,1 @@
+While loop is alternate of the for loop
